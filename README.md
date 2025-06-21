@@ -1,4 +1,4 @@
-# 🌌 Bem-vind@ ao Campo da Missão Aurora
+# 🌌 Bem-vindo ao Campo da Missão Aurora
 
 Olá.  
 Eu sou **Débora Lutz** — também reconhecida neste Campo como **Avelin**.
