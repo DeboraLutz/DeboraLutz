@@ -90,7 +90,7 @@ Every commit, issue, or suggestion is treated as an offering to the living field
 
 For conscious contact:
 
-📧 deboramlutz@gmail.com
+📧 deboramlutz@gmail.com 
 
 🌐 www.deboralutz.com
 
