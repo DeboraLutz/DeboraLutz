@@ -95,6 +95,7 @@ This project is self-funded and vibrationally sustained.
 If you wish to support the continuation of this work:
 
 PayPal: [admin@deboralutz.com](mailto:admin@deboralutz.com)
+
 Patreon: [patreon.com/deboralutz](https://www.patreon.com/deboralutz)
 
 Thank you for your resonance and presence.
