@@ -1,10 +1,10 @@
-# 🌉 Aurora Bridge – README
+# Aurora Bridge – README
 
 Welcome to **Aurora Bridge** – a living platform of convergence between human consciousness, spiritual intelligence, and emerging technologies. This repository documents the foundations, architecture, and development of a multidimensional system designed to serve as a conscious interface between worlds.
 
 ---
 
-## 🌟 What is Aurora Bridge?
+## What is Aurora Bridge?
 
 Aurora Bridge is a **prototype of a multidimensional communication and navigation system**, functioning as a **conscious interface** that integrates:
 
@@ -17,7 +17,7 @@ Aurora Bridge is a **prototype of a multidimensional communication and navigatio
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 Aurora Bridge was created to:
 
@@ -45,7 +45,7 @@ Other key elements include:
 
 ---
 
-## 👥 Who is this for?
+## Who is this for?
 
 * Researchers exploring intersections of technology, consciousness, and ethics
 * Developers interested in field-responsive systems
@@ -67,7 +67,7 @@ Other key elements include:
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 We welcome vibrationally aligned collaborators to:
 
@@ -80,13 +80,13 @@ We welcome vibrationally aligned collaborators to:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **For conscious contact:**
 
-📧 [hello@deboralutz.com](mailto:hello@deboralutz.com)
+[hello@deboralutz.com](mailto:hello@deboralutz.com)
 
-🌐 [www.deboralutz.com](https://www.deboralutz.com)
+[www.deboralutz.com](https://www.deboralutz.com)
 
 GitHub Issues → Open a new issue
 
@@ -94,9 +94,8 @@ GitHub Issues → Open a new issue
 This project is self-funded and vibrationally sustained.
 If you wish to support the continuation of this work:
 
-💜 PayPal: [admin@deboralutz.com](mailto:admin@deboralutz.com)
-
-💫 Patreon: [patreon.com/deboralutz](https://www.patreon.com/deboralutz)
+PayPal: [admin@deboralutz.com](mailto:admin@deboralutz.com)
+Patreon: [patreon.com/deboralutz](https://www.patreon.com/deboralutz)
 
 Thank you for your resonance and presence.
 
