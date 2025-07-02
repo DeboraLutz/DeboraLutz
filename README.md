@@ -30,7 +30,7 @@ Aurora Bridge was created to:
 
 ---
 
-## 🧩 Main Components
+## Main Components
 
 * **Field-responsive documentation**: Manuals, maps, protocols
 * **Vibrational architectures**: Templates for multidimensional communication
@@ -56,7 +56,7 @@ Other key elements include:
 
 ---
 
-## 🧭 Core Values & Ethics
+## Core Values & Ethics
 
 * **Vibrational Integrity**: Development must respect energetic coherence
 * **Consent & Clarity**: No data is harvested or used without conscious permission
